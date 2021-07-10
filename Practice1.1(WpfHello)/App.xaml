@@ -1,0 +1,10 @@
+﻿<Application x:Class="ITMO2021CsharpLabsWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITMO2021CsharpLabsWPF"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+        
+    </Application.Resources>
+</Application>
